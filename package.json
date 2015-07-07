@@ -1,6 +1,6 @@
 {
   "name": "image-juggler",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Juggle pixel data between different web containers, like <img>, <canvas>, ImageData, File, ArrayBuffer, Blob, Array, etc.",
   "main": "index.js",
   "scripts": {
