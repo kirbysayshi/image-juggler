@@ -1,0 +1,27 @@
+{
+  "name": "image-juggler",
+  "version": "0.0.0",
+  "description": "Juggle pixel data between different web containers, like <img>, <canvas>, ImageData, File, ArrayBuffer, Blob, Array, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirbysayshi/image-juggler.git"
+  },
+  "keywords": [
+    "image",
+    "canvas",
+    "pixel",
+    "blob",
+    "file",
+    "arraybuffer"
+  ],
+  "author": "Drew Petersen <kirbysayshi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kirbysayshi/image-juggler/issues"
+  },
+  "homepage": "https://github.com/kirbysayshi/image-juggler#readme"
+}
